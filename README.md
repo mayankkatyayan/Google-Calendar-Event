@@ -35,7 +35,7 @@ Replace `your_supabase_url` and `your_supabase_anon_key` with the respective key
 
 ---
 
-### Steps to Run Locally
+### Steps to Run Locally(Steps)
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repository-name.git
